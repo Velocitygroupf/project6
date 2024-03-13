@@ -1,4 +1,4 @@
-package com.sb.project6;
+package com.sb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
